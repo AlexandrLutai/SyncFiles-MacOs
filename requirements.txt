@@ -4,11 +4,8 @@ PyQt6-tools>=6.4.0  # для Qt Designer и других инструменто�
 
 # macOS Integration
 pyobjc>=9.0.0
-pyobjc-core>=9.0.0ы
+pyobjc-core>=9.0.0
 pyobjc-framework-Cocoa>=9.0.0
-
-# File system monitoring (альтернатива fswatch)
-watchdog>=3.0.0
 
 # Configuration management
 pyyaml>=6.0.0
@@ -17,7 +14,6 @@ configparser>=5.3.0
 # Logging and utilities
 coloredlogs>=15.0.0
 python-dateutil>=2.8.0
-pathlib2>=2.3.0
 
 # Development and testing
 pytest>=7.0.0
